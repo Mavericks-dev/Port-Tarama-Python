@@ -6,7 +6,7 @@ Uygulama "nmap" kullanılarak girilen ip üzerinden 3 farklı işlemi gerçekle�
 2-Servis ve Versiyon Bilgisi
 3-İşletim Sistemi Bİlgisi
 
-3 ana bölüm üzerinden deperlendirilmek üzere kolay bir kullanım şekli ile yazılmıştır.
+3 ana bölüm üzerinden değerlendirilmek üzere kolay bir kullanım şekli ile yazılmıştır.
 
 apt-get install python3
 apt-get update
